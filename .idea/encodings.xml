@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/jiangnan/PedmeterApp/Fragment/HealthFragment.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/jiangnan/PedmeterApp/Fragment/StepFragment.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/jiangnan/PedmeterApp/MainPageActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/jiangnan/PedmeterApp/Service/Step_Service.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/jiangnan/PedmeterApp/Util/SensorUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/jiangnan/PedmeterApp/Util/Step_Detector.java" charset="UTF-8" />
+  </component>
+</project>
